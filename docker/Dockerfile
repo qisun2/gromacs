@@ -1,0 +1,1 @@
+From nvidia/cuda:12.1.0-cudnn8-devel-ubuntu22.04
